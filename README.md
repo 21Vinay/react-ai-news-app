@@ -1,1 +1,1 @@
-# React-ai-news-app
+# React-AI-news-app
